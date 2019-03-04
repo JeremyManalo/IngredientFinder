@@ -13,7 +13,7 @@ class IngredientFinder
         {
           "Images/IngrList-1(0).png",
           "Images/IngrList-2(0).png",
-          "Images/IngrList-3(0).png"
+          "Images/IngrList-3(0).png" 
         };
         BufferedImage[] pictures = new BufferedImage[pictureFiles.length];
         for (int i = 0; i < pictures.length; i++)
